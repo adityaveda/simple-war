@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Aditya Technologies !!! </h1>
+<h1> Welcome to Aditya Technologies !!! </h1>
 
